@@ -76,7 +76,7 @@ I enjoy building real-world projects, participating in hackathons, solving codin
 
 <div align="center">
   
-Made with ❤️ by [Avinesh]
+Made with ❤️ by Avinesh
 
 </div>
 
